@@ -45,7 +45,8 @@ To analyse and identify the factors leading to customer churn and to provide act
 - Analysis of monthly charges vs. tenure
 - Comparison of churn behavior by services
 - Revenue impact of retained vs. lost customers
-- Dashboard Preview - btmhlanga-telcocustomeranalysis.lovable.app
+- Dashboard Preview -
+ [ btmhlanga-telcocustomeranalysis.lovable.app  ](https://btmhlanga-telcocustomeranalysis.lovable.app/) 
 
 ## 📘Conclusion
 - The analysis reveals that customer churn is mainly influenced by contract type, service quality, and monthly charges.
